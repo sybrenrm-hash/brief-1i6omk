@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-19",
+  "html": "<div class=\"weather\" aria-label=\"Weather\">\n  <div class=\"cell\"><span class=\"label\">Morning</span><span class=\"big\">10°</span><span>Sun and clouds</span></div>\n  <div class=\"cell\"><span class=\"label\">High / low</span><span class=\"big\">15° / 8°</span><span>°C</span></div>\n  <div class=\"cell\"><span class=\"label\">Rain · wind</span><span class=\"big\">Dry</span><span>ENE Bft 3</span></div>\n  <div class=\"rain\">\n    <div class=\"rain-head\">\n      <span class=\"label\">Rain per hour · 06:00–22:00</span>\n      <a href=\"https://www.buienalarm.nl/\">Live radar ↗</a>\n    </div>\n    <svg id=\"rainChart\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"Hourly rain forecast\"></svg>\n    <p class=\"note\">Buienalarm forecast, checked Sun 23:00. Day total up to 0.8 mm, but every hour shows 0 mm.</p>\n  </div>\n  <p class=\"tip\">Dry all day by the hourly forecast. A light jacket is enough; the umbrella can stay home.</p>\n</div>\n\n<section aria-labelledby=\"mk\">\n  <h2 id=\"mk\">Markets <span class=\"label\">last week</span></h2>\n  <div class=\"stats\">\n    <span class=\"stat\">S&amp;P 500 <span class=\"dn\">−2.0%</span></span>\n    <span class=\"stat\">Nasdaq <span class=\"dn\">−4.5%</span></span>\n    <span class=\"stat\">Dow <span class=\"upc\">+0.7%</span></span>\n    <span class=\"stat\">Chips <span class=\"dn\">−11.4%</span></span>\n    <span class=\"stat\">WTI oil $101</span>\n  </div>\n  <ul class=\"news\">\n    <li><strong>AI trade cracked.</strong> Chips had their worst week since April 2025 after a Gartner warning that trillions in AI spending could be written down by 2030.</li>\n    <li><strong>Oil above $100</strong> on tanker attacks near Hormuz, and US inflation at 3.7% keeps a rate hike on the table.</li>\n  </ul>\n  <p class=\"watch\"><strong>Watch:</strong> chip losing streak, oil, Fed meeting 27–28 Oct.</p>\n</section>\n\n<section aria-labelledby=\"ai\">\n  <h2 id=\"ai\">AI changes</h2>\n  <ul class=\"news\">\n    <li><strong>China proposes AI export controls</strong> on about 40 technologies, including models and agents. Not final.</li>\n    <li><strong>Germany near an Nvidia deal</strong> on industrial AI and robotics.</li>\n    <li><strong>IMF warns</strong> AI could do more harm than good without safeguards.</li>\n  </ul>\n</section>\n\n<section aria-labelledby=\"sp\">\n  <h2 id=\"sp\">Sports <span class=\"label\">weekend</span></h2>\n  <div class=\"scores\" aria-label=\"Eredivisie round 9 results\">\n    <span class=\"h\">Telstar</span><span class=\"s\">3–4</span><span>Feyenoord</span>\n    <span class=\"h\">Groningen</span><span class=\"s\">2–5</span><span>Ajax</span>\n    <span class=\"h\">ADO Den Haag</span><span class=\"s\">1–2</span><span>PSV</span>\n  </div>\n  <ul class=\"news\">\n    <li>Feyenoord lead the Eredivisie on 23 points, ahead of AZ (20) and PSV (19).</li>\n    <li>Dubois knocked out Wardley in two rounds to keep his WBO heavyweight title.</li>\n  </ul>\n</section>\n\n<article class=\"lesson\" aria-labelledby=\"ls\">\n  <span class=\"label\">1 idea · Investing</span>\n  <h2 id=\"ls\">Why rising rates hit tech stocks hardest</h2>\n  <p>A share is worth the profits it will earn in the future, discounted back to today. A higher interest rate means a bigger discount, and it grows the further away the profit is.</p>\n  <p>€100 in 10 years is worth €74 today at 3% but only €61 at 5%, a 17.5% drop. €100 in 1 year only falls 1.9%. Growth and AI companies earn most of their profit far in the future, so they fall more.</p>\n  <p class=\"takeaway\">Higher rates cut the value of distant profits, so growth stocks swing harder.</p>\n</article>\n\n<details>\n  <summary>Sources (APA)</summary>\n  <ul class=\"apa\">\n    <li>AIdapted. (2026, October 17). <i>AI and tech news</i>. <a href=\"https://aidapted.ro/en/articles/ai-tech-news-october-17-2026/\">https://aidapted.ro/en/articles/ai-tech-news-october-17-2026/</a></li>\n    <li>Buienalarm. (n.d.). <i>Weersverwachting en buienradar</i>. Retrieved October 18, 2026, from <a href=\"https://www.buienalarm.nl/\">https://www.buienalarm.nl/</a></li>\n    <li>Esnault, J. (2026, October 17). <i>Stock market week in review, Oct. 12–16, 2026: Chips fall 11.41%, oil tops $100</i>. Portfolio Terminal. <a href=\"https://portfolio-terminal.com/blog/stock-market-week-in-review-october-16-2026\">https://portfolio-terminal.com/blog/stock-market-week-in-review-october-16-2026</a></li>\n    <li>J., J. (2026, October 18). <i>Sport in brief: October 18, 2026</i>. Morning Star. <a href=\"https://morningstaronline.co.uk/article/sport-brief-october-18-2026\">https://morningstaronline.co.uk/article/sport-brief-october-18-2026</a></li>\n    <li>Rennie, A. (2026, October 16). <i>Markets news, Oct. 16, 2026: Nasdaq, S&amp;P 500 end lower, post weekly losses; AI stocks fall; Dow logs weekly gain</i>. Investopedia via Yahoo Finance. <a href=\"https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html\">https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html</a></li>\n    <li>Sports Mole. (n.d.). <i>Eredivisie results</i>. Retrieved October 18, 2026, from <a href=\"https://www.sportsmole.co.uk/football/eredivisie/results.html\">https://www.sportsmole.co.uk/football/eredivisie/results.html</a></li>\n  </ul>\n</details>",
+  "label": "Monday 19 October",
+  "rain": [
+    {
+      "h": "06",
+      "mm": 0
+    },
+    {
+      "h": "07",
+      "mm": 0
+    },
+    {
+      "h": "08",
+      "mm": 0
+    },
+    {
+      "h": "09",
+      "mm": 0
+    },
+    {
+      "h": "10",
+      "mm": 0
+    },
+    {
+      "h": "11",
+      "mm": 0
+    },
+    {
+      "h": "12",
+      "mm": 0
+    },
+    {
+      "h": "13",
+      "mm": 0
+    },
+    {
+      "h": "14",
+      "mm": 0
+    },
+    {
+      "h": "15",
+      "mm": 0
+    },
+    {
+      "h": "16",
+      "mm": 0
+    },
+    {
+      "h": "17",
+      "mm": 0
+    },
+    {
+      "h": "18",
+      "mm": 0
+    },
+    {
+      "h": "19",
+      "mm": 0
+    },
+    {
+      "h": "20",
+      "mm": 0
+    },
+    {
+      "h": "21",
+      "mm": 0
+    },
+    {
+      "h": "22",
+      "mm": 0
+    }
+  ]
+}
